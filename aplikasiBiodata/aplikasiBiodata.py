@@ -1,6 +1,6 @@
 # Biodata app made by Saepul Bahri
 
-def biodata_app():
+def get_user_bio():
     # get user name
     name = input("Your name: ")
     # get user age
@@ -8,8 +8,13 @@ def biodata_app():
     # get user major
     major = input("Your major: ")
 
+    # it's just a fancy separator
+    print("=====================")
+
     # print user name, age, and major to the screen
-    print(name + " " + age + " " + major)
+    print("Nama anda adalah:", name)
+    print("Umur anda:", age)
+    print("Anda berada di jursan:", major)
 
 
-biodata_app()
+get_user_bio()
