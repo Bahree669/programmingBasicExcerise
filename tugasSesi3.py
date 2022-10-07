@@ -1,6 +1,6 @@
-nama = "Saepul Bahri"
-umur = 20
-jurusan = "Teknik Informatika"
-kutipan = "You can change the future but not the past."
+name = "Saepul Bahri"
+age = 20
+major = "Teknik Informatika"
+quote = "You can change the future but not the past."
 
-print(nama, umur, jurusan, kutipan)
+print(name, age, major, quote)
