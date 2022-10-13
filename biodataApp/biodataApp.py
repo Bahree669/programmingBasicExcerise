@@ -12,7 +12,7 @@ def getUserBio():
         input("Do you like spicy food? (enter y = yes or press 'Enter' to skip) "))
     # user hobbies
     hobbies = []
-    while 1 < 2:
+    while True:
         getHobbies = input(
             "Enter your hobbies! (enter '/' to escape or quit the form) ")
         if getHobbies == '/':
