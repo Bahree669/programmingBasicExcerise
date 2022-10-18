@@ -1,5 +1,5 @@
 # ASSIGNMENT SESSION 4
-# MADE WITH 💙 BY SAEPUL BAHRI (TI221 - INFORMATICS ENGINEERING)
+# MADE WITH 💙 BY SAEPUL BAHRI (TI22I - INFORMATICS ENGINEERING)
 
 def get_product():
     product_name = input("Product name: (Enter '/' to close the form) ")
